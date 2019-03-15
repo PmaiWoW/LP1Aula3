@@ -49,7 +49,7 @@ namespace ChatBot
                     "Skynet?":
                         resposta = "Still classified.";
                         break;
-                    case "That's it, I'm calling the police?":
+                    case "That's it, I'm calling the police":
                         resposta = "Call the cops on your own computer? " +
                             "Yeah go for it, that should go well...";
                         break;
