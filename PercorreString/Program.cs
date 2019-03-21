@@ -11,7 +11,7 @@ namespace PercorreString
             char c;
 
             //pedir e guardar input do utilizador
-            Console.WriteLine("Input a full phrase, please:");
+            Console.WriteLine("Input a string (phrase), please:");
             s = Console.ReadLine();
 
             //pedir ao utilizador o carácter a remover
